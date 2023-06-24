@@ -1,0 +1,15 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "lab4 babel",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d lib"
+  },
+  "author": "Juan Villa <ing.villa.jimenez@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
